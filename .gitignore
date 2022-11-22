@@ -4,3 +4,4 @@ venv/
 .vscode
 .python-version
 .__pycache__/
+__pycache__/flsite.cpython-37.pyc
